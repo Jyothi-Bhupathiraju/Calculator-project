@@ -12,3 +12,5 @@ read b
 sum=$((a+b))
 echo "$sum"
 
+#Adding squre functionality
+echo "square of first number=$((num1*num2))"
