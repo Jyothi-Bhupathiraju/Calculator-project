@@ -14,3 +14,6 @@ echo "$sum"
 
 #Adding squre functionality
 echo "square of first number=$((num1*num2))"
+
+#adding cube functionality
+echo "cube of first number=$((num1*num1*num1))"
